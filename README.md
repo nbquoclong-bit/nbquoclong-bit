@@ -5,8 +5,8 @@
 - (🌱 Fun fact: I have lost 17kg over the last four months)
 
 ### 📫 Contact me at:
-[![Facebook](https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Facebook_Logo_%282019%29.png)](https://www.facebook.com/long.nguyenbaquoc.7)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/500px-Facebook_Logo_%282019%29.png)](https://www.facebook.com/long.nguyenbaquoc.7)
 
-[![Threads](https://www.vecteezy.com/free-png/threads-logo)](https://www.threads.com/@longnguyenbaquoc)
+[![Threads](https://static.vecteezy.com/system/resources/thumbnails/035/153/631/small/illustration-of-threads-logo-free-png.png)](https://www.threads.com/@longnguyenbaquoc)
 
-[![Linkedin](https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg)](in/long-nguy%E1%BB%85n-b%C3%A1-qu%E1%BB%91c-2726a7166)
+[![Linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png)](in/long-nguy%E1%BB%85n-b%C3%A1-qu%E1%BB%91c-2726a7166)
